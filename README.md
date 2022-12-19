@@ -5,10 +5,10 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+أوصال مطلق العدواني
 
 ### اسم المشروع
-
+موقع عن كأس العالم 2022
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
@@ -18,17 +18,5 @@
 
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
